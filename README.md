@@ -9,8 +9,5 @@
 
 - LORA : PEFT encapsulates a family of techniques, one of which is the popular LoRA (Low-Rank Adaptation) method.
 
-The basic idea behind LoRA is to pick a subset of layers in an existing model and modify their weights according to the following equation.
 
-<p align="center">
-  <img src=" ![1_GmCISYhd-JLqHNEvAQU1tQ](https://github.com/mohammedelalimy/Machine-Translation-Arabic-to-English-by-Transformers/assets/132956615/388b711c-e662-46f5-91c2-7ff33401803d)" alt="Your Image Description">
-</p>
+
