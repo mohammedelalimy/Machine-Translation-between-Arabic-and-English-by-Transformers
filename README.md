@@ -1,4 +1,4 @@
-# Machine-Translation-Arabic-to-English-by-Transformers
+# Machine-Translation-between-Arabic-and-English-by-Transformers
 # Ways to apply fine tuning :
 
 - full fine tuning : train all internal model parameters (called full parameter tuning). While this option is simple (conceptually), it is the most computationally expensive. Additionally, a known issue with full parameter tuning is the phenomenon of catastrophic forgetting.
