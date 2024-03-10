@@ -9,10 +9,10 @@
 
 - LORA : PEFT encapsulates a family of techniques, one of which is the popular LoRA (Low-Rank Adaptation) method.
 
-# Model on Huggigface :
+- Model on Huggigface :
   https://huggingface.co/Elalimy/my_awesome_peft_finetuned_helsinki_model
 
-# Dataset used is custom dataset for computer science terminology in addition to puplic words it also on Huggingface:
+- Dataset used is custom dataset for computer science terminology in addition to puplic words it also on Huggingface:
    https://huggingface.co/datasets/Elalimy/Arabic_Eng_MT
 
 
